@@ -1,8 +1,11 @@
 h1 {
     font-family: 'Great Vibes', cursive;
-    font-size: 200px;
+    font-size: 250px;
 }
 h4 {
     color: purple;
     text-align: right;
+}
+p {
+    font-size: 30px;
 }
