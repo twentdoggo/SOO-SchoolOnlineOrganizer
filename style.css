@@ -1,6 +1,9 @@
-body {
-    width: 100%;
-    height: 100%;
+.bg {
+    background-image: url("bg.jpg");
+    height: 100%;  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1 {
     font-family: 'roboto' 'Great Vibes', cursive;
