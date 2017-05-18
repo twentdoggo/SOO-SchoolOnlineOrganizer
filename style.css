@@ -13,11 +13,11 @@ h4 {
     color: purple;
     text-align: right;
     font-size: 25px;
-    position: fixed; 
-    bottom: 0;
 }
 p {
     font-size: 30px;
+    position: fixed; 
+    bottom: 0;
 }
 a:link {
     color: red;
