@@ -10,3 +10,6 @@ h4 {
 p {
     font-size: 30px;
 }
+a:link {
+    color: red;
+}
