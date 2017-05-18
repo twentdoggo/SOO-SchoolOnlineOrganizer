@@ -13,3 +13,9 @@ p {
 a:link {
     color: red;
 }
+a:visited {
+    color: cyan;
+}
+a:hover {
+    color: hotpink;
+}
