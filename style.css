@@ -22,6 +22,7 @@ p {
     font-size: 30px;
     position: fixed; 
     bottom: 0;
+    text-decoration: underlined;
 }
 a:link {
     color: red;
