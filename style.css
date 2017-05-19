@@ -22,14 +22,16 @@ p {
     font-size: 30px;
     position: fixed; 
     bottom: 0;
-    text-decoration: underlined;
 }
 a:link {
     color: red;
+    text-decoration: underlined;
 }
 a:visited {
     color: cyan;
+    text-decoration: underlined;
 }
 a:hover {
     color: hotpink;
+    text-decoration: underlined;
 }
