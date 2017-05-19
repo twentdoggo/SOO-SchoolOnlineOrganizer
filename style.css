@@ -20,18 +20,16 @@ h4 {
 }
 p {
     font-size: 30px;
-    position: fixed; 
+    position: absolute; 
     bottom: 0;
+    text-decoration: underline;
 }
 a:link {
     color: red;
-    text-decoration: underlined;
 }
 a:visited {
     color: cyan;
-    text-decoration: underlined;
 }
 a:hover {
     color: hotpink;
-    text-decoration: underlined;
 }
