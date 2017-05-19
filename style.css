@@ -5,13 +5,16 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+h2 {
+    color: white;
+}
 h1 {
     font-family: 'roboto' 'Great Vibes', cursive;
     font-size: 50px;
     color: white;
 }
 h4 {
-    color: purple;
+    color: orange;
     text-align: right;
     font-size: 25px;
 }
