@@ -1,6 +1,7 @@
 body {
     background-image: url("https://source.unsplash.com/1366x768/?+nature");
     height: 100%;  
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
