@@ -33,3 +33,9 @@ a:visited {
 a:hover {
     color: hotpink;
 }
+#submit {
+    test-align: left;
+}
+#unsplash {
+    test-align: right;
+}
